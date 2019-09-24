@@ -48,8 +48,7 @@ header.startup h1 {
 
 .btn-primary {
   background-color: #F05F44;
-  border-color: #F05F44; 
-  align: center;}
+  border-color: #F05F44;}
 
 .btn-primary:hover {
   background-color: #ee4b08;
